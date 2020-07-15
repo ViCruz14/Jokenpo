@@ -5,7 +5,7 @@ As bibliotecas utilizadas são: random, time e emoji. Tenha certeza que elas já
 
 O programa funciona pela seguinte lógica: 
 os objetos Pedra, Papel e Tesoura tem, além de nome e emoji, o atributo 'ganha_de' que simboliza de qual objeto eles ganham. 
-.Uma vez que o computador escolheu sua jogada pelo método choice, e o jogador digitou sua opção no input (ambos pela função escolha) o programa automaticamente considera empate se os objetos forem iguais
+Uma vez que o computador escolheu sua jogada pelo método choice, e o jogador digitou sua opção no input (ambos pela função escolha) o programa automaticamente considera empate se os objetos forem iguais
 .Caso não, o programa compara o atributo 'ganha_de'da jogada do jogador com a jogada do adiversário. Se forem iguais, isso significa que o jogador ganhou. Se não, o jogador perdeu (função definir_ganhador)
 
 O placar é mostrado e o jogador tem a opção de continuar ou parar de jogar
