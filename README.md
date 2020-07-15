@@ -1,7 +1,7 @@
 # Jokenpo
 Jogo de Pedra, Papel, Tesoura modelo jogador x computador
 
-As bibliotecas utilizadas são: random, time e emoji. Tenha certeza que elas já estão instaladas antes de rodar
+As bibliotecas utilizadas são: random, time, emoji e unittest. Tenha certeza que elas já estão instaladas antes de rodar
 
 O programa funciona pela seguinte lógica: 
 os objetos Pedra, Papel e Tesoura tem, além de nome e emoji, o atributo 'ganha_de' que simboliza de qual objeto eles ganham. 
